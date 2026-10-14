@@ -1,6 +1,6 @@
 # Elevator Button Perception
 
-Computer vision pipeline for the Open Droids elevator-interaction project. Given a camera view of an elevator panel, it finds each button, identifies which button it is, decides whether it is lit (pressed), and draws the result on the frame. Each frame's detections are also written to a JSON log.
+Computer vision pipeline for an elevator-interaction project. Given a camera view of an elevator panel, it finds each button, identifies which button it is, decides whether it is lit (pressed), and draws the result on the frame. Each frame's detections are also written to a JSON log.
 
 Scope: panel perception only. Depth estimation and x/y coordinates for the robot arm are handled separately.
 
@@ -26,21 +26,21 @@ colour test  ->  pressed / unpressed
 annotated frame + JSON
 ```
 
-**Why two stages.** The first version of the model had state baked into the class names (`B_floor_pressed`, `B_floor_unpressed`). Both elevators we collected from light up differently when pressed (red on Elevator 1, white on Elevator 2), and YOLO did not separate pressed from unpressed reliably in live tests. Moving state out of the detector and into a colour measurement made the state decision explicit and measurable.
+**Why two stages?** The first version of the model had state baked into the class names (`B_floor_pressed`, `B_floor_unpressed`). Both elevators we collected from light up differently when pressed (red on Elevator 1, white on Elevator 2), and YOLO did not separate pressed from unpressed reliably in live tests. Moving state out of the detector and into a colour measurement made the state decision explicit and measurable.
 
 **The colour test.** For each detected button, the centre `CENTER_CROP` fraction of the box is sampled and two numbers are computed:
 
-- `redness` = mean(R) - mean(G). Elevator 1 buttons glow red when pressed.
-- `white_frac` = fraction of pixels where min(R, G, B) > 200. Elevator 2 buttons glow white when pressed.
+- `redness` = mean(R) - mean(G). Elevator 1 buttons glow **red** when pressed.
+- `white_frac` = fraction of pixels where min(R, G, B) > 200. Elevator 2 buttons glow **white** when pressed.
 
-The button is called pressed if `redness > RED_THRESHOLD` or `white_frac > WHITE_THRESHOLD`.
+The button is **pressed** if `redness > RED_THRESHOLD` or `white_frac > WHITE_THRESHOLD`.
 
 ---
 
 ## 2. Files
 
 | File | Purpose |
-|---|---|
+
 | `Model-IRIS.py` | Main script. Live camera inference, drawing, JSON output. |
 | `evaluate_states.py` | Computes state accuracy / precision / recall / F1 and the confusion matrix against the hand-labelled ground truth. |
 | `label_states.py` | Tool used to build the ground truth: shows each annotated button crop, press `p` / `u` / `s` / `q`. |
@@ -233,7 +233,7 @@ A brightness cut-off cannot separate glare from a white-lit glyph, since both ar
 
 ---
 
-## 8. Known limitations and next steps
+## 8. Known limitations
 
 **Limitations**
 
@@ -244,11 +244,3 @@ A brightness cut-off cannot separate glare from a white-lit glyph, since both ar
 - 85 pressed examples drawn from 90 images. The buttons within one photo share lighting, so the effective sample is smaller than 564. Quote sample sizes alongside the metrics.
 - Ground truth was labelled by one person.
 - Live webcam runs were recorded (`output_final.mp4`, JSON logs) but no quantitative live-feed metrics were collected.
-
-**Next steps**
-
-- Add `[x1, y1, x2, y2]` to each JSON detection. The teammate doing depth/x-y needs it, and it is not in the output yet. Confirm the format he wants first.
-- Improve detection recall: more training data (especially telephone, panel, and small buttons) or a larger model (`yolo11s`) instead of the nano model.
-- Glare handling that does not depend on brightness, for example rejecting small isolated bright blobs by size.
-- Clarify with the manager whether "pixel profile" means a per-button unlit baseline compared against the live frame; that is different from the single per-elevator threshold used now and has not been built.
-- Move the colour function and constants into one shared module so the inference and evaluation scripts cannot drift apart. (This also removes the ambiguity about which file's constants are in use.)
