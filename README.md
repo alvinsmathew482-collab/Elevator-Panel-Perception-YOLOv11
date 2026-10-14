@@ -230,7 +230,10 @@ A brightness cut-off cannot separate glare from a white-lit glyph, since both ar
 
 ---
 
-## 8. Known limitations
+## 8. Dataset:
+Link to Google Drive: https://drive.google.com/file/d/1mMcXgsT7HWad6YTmYY7D4XvR3agh8H-0/view?usp=sharing
+
+## 9. Known limitations:
 
 **Limitations**
 
