@@ -8,12 +8,11 @@ TEST_IMAGES = "datasets/final/test/images"
 TEST_LABELS = "datasets/final/test/labels"
 OUTPUT_FILE = "ground_truth_states.json"
 
-# ---- Class names in the exact order from data.yaml ----
 CLASS_NAMES = ['1_floor', '2_floor', '3_floor', 'B_floor', 'G_floor',
                'bell_unpressed', 'door_close', 'door_open',
                'panel_region', 'telephone_unpressed']
 
-# Classes we DON'T need a state for (panel isn't a button)
+# class not needed: panel_region
 SKIP_CLASSES = {'panel_region'}
 
 def polygon_to_pixels(parts, img_w, img_h):
@@ -32,7 +31,7 @@ def polygon_to_pixels(parts, img_w, img_h):
     return x1, y1, x2, y2
 
 def main():
-    # Resume support — load existing progress if any
+    
     results = []
     done_keys = set()
     if os.path.exists(OUTPUT_FILE):
@@ -81,7 +80,7 @@ def main():
             if quit_flag:
                 break
 
-            # Skip if already done (resume)
+            
             if (img_name, box_idx) in done_keys:
                 continue
 
@@ -104,7 +103,7 @@ def main():
             display = cv2.resize(crop, (400, 400),
                                  interpolation=cv2.INTER_NEAREST)
 
-            # Add a label banner
+            # Add label banner
             banner = display.copy()
             cv2.rectangle(banner, (0, 0), (400, 40), (0, 0, 0), -1)
             cv2.putText(banner, f"{cls_name}", (10, 28),
@@ -136,7 +135,7 @@ def main():
                 "true_state": state
             })
 
-            # Save after every label (crash-safe)
+            # Save after every label
             with open(OUTPUT_FILE, "w") as f:
                 json.dump(results, f, indent=2)
 
