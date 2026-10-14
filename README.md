@@ -38,9 +38,6 @@ The button is **pressed** if `redness > RED_THRESHOLD` or `white_frac > WHITE_TH
 ---
 
 ## 2. Files
-
-| File | Purpose |
-
 | `Model-IRIS.py` | Main script. Live camera inference, drawing, JSON output. |
 | `evaluate_states.py` | Computes state accuracy / precision / recall / F1 and the confusion matrix against the hand-labelled ground truth. |
 | `label_states.py` | Tool used to build the ground truth: shows each annotated button crop, press `p` / `u` / `s` / `q`. |
