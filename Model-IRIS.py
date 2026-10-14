@@ -4,12 +4,10 @@ import json
 import numpy as np
 from datetime import datetime
 
-# ---- Load your final trained model ----
-# Update this path to wherever you saved the downloaded best.pt from Colab
-MODEL_PATH = "final_v1_best.pt"
+MODEL_PATH = "final_v1_best.pt" #loading trained model
 model = YOLO(MODEL_PATH)
 
-# ---- Class identity map: internal name -> (display label, type) ----
+# ---- Class identity map: internal name -> (label, type) ----
 CLASS_META = {
     "1_floor": ("1", "floor"),
     "2_floor": ("2", "floor"),
@@ -23,10 +21,10 @@ CLASS_META = {
     "panel_region": ("Panel", "panel"),
 }
 
-# ---- Calibrated colour thresholds (measured, not guessed) ----
+# ---- Colour thresholds ----
 RED_THRESHOLD = 20       # R - G difference -> Elevator 1 red glow
 WHITE_THRESHOLD = 0.07   # fraction of near-white pixels -> Elevator 2 white glow
-CENTER_CROP = 0.5      # sample inner 50% of the box, avoids the dark bezel
+CENTER_CROP = 0.5      # sample 50% of the box, avoids the dark bezel
 CONF_THRESHOLD = 0.4    
 
 
