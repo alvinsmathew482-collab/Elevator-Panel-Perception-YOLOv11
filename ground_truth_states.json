@@ -1,0 +1,3386 @@
+[
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130229_jpg.rf.3zBxxkUr6xaR5tuWQAye.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130230_jpg.rf.nDqACl9GfcKhZr2YW0rz.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130234_jpg.rf.sjCmenA2qayF1iziKgvd.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 6,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260512_130242_jpg.rf.LBrQzjmWyzW7ankHIRX2.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213707_jpg.rf.xwEjl9jEP3RqixWkQR9h.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213708_jpg.rf.NAdgFdY6YkdnAXk0lt2N.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213710_jpg.rf.LevVyvXnmkNglTQVKOVU.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213711_jpg.rf.NG7RDj08bjlx4XI9Urjl.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213713_jpg.rf.yv5wOHH2RxqU4F5N3z4s.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213716_jpg.rf.pvGFxuVfq6anuGHet8GA.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213718_jpg.rf.jyadQSftEvLKHxBGufd2.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213719_jpg.rf.i5o15kmgF9LeUfQL91od.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213720_jpg.rf.vBNExFbAHpqAAUMa5oud.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213722_jpg.rf.mXwq2XfbAcAcvlqI9u8Z.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213727_jpg.rf.BPGyGnTRfK2eJMHXurwj.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213733_jpg.rf.G25fIaHYjfyVJRr51ikX.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 5,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 7,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 8,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 9,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213741_jpg.rf.1Ahw9DpjFBRSrHPnvfuk.jpg",
+    "box": 10,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 1,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 2,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 6,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 7,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 8,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 9,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213743_jpg.rf.w9fUouSrt4PDNr5bMgx9.jpg",
+    "box": 10,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213744_jpg.rf.Z1F42BoJahbyz91dfzKP.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213747_jpg.rf.cwI3olGEynDvMUjROyaf.jpg",
+    "box": 1,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213750_jpg.rf.5a6Ztvpu0xiqWyvT3ANo.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213753_jpg.rf.JOsnT1J644qWlKzmEKtM.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213755_jpg.rf.wx0HpCHeSOJqikFEw8oh.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 2,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 6,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 7,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 9,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213804_jpg.rf.FMjYezVlVj3RqteiVso8.jpg",
+    "box": 10,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213806_jpg.rf.N8ads3Z5c09shUkq4BlV.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213808_jpg.rf.OFVIr6Z7IMcL83cW05pI.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213814_jpg.rf.rxuhBj7OFUTvRBOhYLaY.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 1,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 2,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 3,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 4,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 5,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 6,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213815_jpg.rf.K6uwyzw3D52p6QxDimFs.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213821_jpg.rf.q17LafnUwXdkq7lKlhgr.jpg",
+    "box": 0,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213821_jpg.rf.q17LafnUwXdkq7lKlhgr.jpg",
+    "box": 1,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213821_jpg.rf.q17LafnUwXdkq7lKlhgr.jpg",
+    "box": 2,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213821_jpg.rf.q17LafnUwXdkq7lKlhgr.jpg",
+    "box": 3,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213821_jpg.rf.q17LafnUwXdkq7lKlhgr.jpg",
+    "box": 4,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213823_jpg.rf.88X4DrjgorB3yvTBlxH8.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213823_jpg.rf.88X4DrjgorB3yvTBlxH8.jpg",
+    "box": 1,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213823_jpg.rf.88X4DrjgorB3yvTBlxH8.jpg",
+    "box": 2,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213823_jpg.rf.88X4DrjgorB3yvTBlxH8.jpg",
+    "box": 3,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213823_jpg.rf.88X4DrjgorB3yvTBlxH8.jpg",
+    "box": 4,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213823_jpg.rf.88X4DrjgorB3yvTBlxH8.jpg",
+    "box": 5,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 1,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213857_jpg.rf.07a8zgfcqdiwaR9qHKoM.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 0,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 1,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 2,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 3,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 4,
+    "class": "1_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 5,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 6,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213858_jpg.rf.CaqoKJeT2jG0O2goYd3w.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 3,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 4,
+    "class": "1_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 5,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 6,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 7,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213900_jpg.rf.agZMRVW4uV45ieZ9EzG0.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 3,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213904_jpg.rf.VW5ln4pfrgbjDQRuAWdQ.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 5,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 6,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213907_jpg.rf.lYNMxuB0P5J2k22MSnw5.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213919_jpg.rf.HLoqCPhRbfjcvNGS0Ksz.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213919_jpg.rf.HLoqCPhRbfjcvNGS0Ksz.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213919_jpg.rf.HLoqCPhRbfjcvNGS0Ksz.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213919_jpg.rf.HLoqCPhRbfjcvNGS0Ksz.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213922_jpg.rf.7hMJu5jU3MTCh1HAcjQJ.jpg",
+    "box": 0,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213922_jpg.rf.7hMJu5jU3MTCh1HAcjQJ.jpg",
+    "box": 1,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213922_jpg.rf.7hMJu5jU3MTCh1HAcjQJ.jpg",
+    "box": 2,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_213922_jpg.rf.7hMJu5jU3MTCh1HAcjQJ.jpg",
+    "box": 3,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213922_jpg.rf.7hMJu5jU3MTCh1HAcjQJ.jpg",
+    "box": 4,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_213922_jpg.rf.7hMJu5jU3MTCh1HAcjQJ.jpg",
+    "box": 5,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214510_jpg.rf.Yayba9leisgE6DMtAOIG.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214512_jpg.rf.zNcNYyylJOob8wDShpZ3.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214516_jpg.rf.FczamlAGbsLU4ezEwqjg.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214518_jpg.rf.jZ1Xc2Q96Je4WysaGSKy.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214520_jpg.rf.tEPZTxiYWAFTP3AGuVxZ.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214520_jpg.rf.tEPZTxiYWAFTP3AGuVxZ.jpg",
+    "box": 1,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214522_jpg.rf.SeEAMf3Wvyf4xIJariWS.jpg",
+    "box": 0,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 6,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214804_jpg.rf.v8tTrSCpMh2l99gEk3Zp.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214805_jpg.rf.cASk1dkS6dRULqslnn7b.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214806_jpg.rf.a5BvtDBK9s7rMG90zSeZ.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214807_jpg.rf.3qNFRFJhKflpq7DnoBKe.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214810_jpg.rf.LzMQEANKJySTh4LjAAxR.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214812_jpg.rf.kAthOqm9Vy8u12yQcGBq.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214815_jpg.rf.V9ogulHXxNuXFyViV1H1.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 5,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 6,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214817_jpg.rf.c9sA5Xh7cu2B0qBjBvjE.jpg",
+    "box": 7,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 7,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214819_jpg.rf.Mrt4OtI9IlboRKrgb2Ai.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214820_jpg.rf.2orOpoGoJXJEtvAbMZGg.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214822_jpg.rf.Cosk8v4tFkZzuMpDBdk9.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214824_jpg.rf.nF4Nz5sHLTzRizWEX0uP.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214826_jpg.rf.38hOP3gJluvIoir4mH4u.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 6,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214829_jpg.rf.wfJ2Z3AY58aZgOWBm7oM.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214832_jpg.rf.3lZxAe8Q1YiTWWCdGfcE.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214834_jpg.rf.b1hHuvOP9noGAxQlDuNI.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 5,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214835_jpg.rf.YJTYOs0AK0MyOVswXECu.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214836_jpg.rf.OYTlgtqfcmAnFW8ODZJX.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 5,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214853_jpg.rf.VoV1ITkx3LxJQQbadUtj.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 6,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214855_jpg.rf.373SXqBa7cD41LS4tG8i.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214858_jpg.rf.dylEjUzK5QiH0D5dOsvP.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_214859_jpg.rf.s4UPgxZefL4IOpwEAfGN.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215008_jpg.rf.43VbemSY4TLbR1jxoWcS.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215008_jpg.rf.43VbemSY4TLbR1jxoWcS.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215008_jpg.rf.43VbemSY4TLbR1jxoWcS.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215008_jpg.rf.43VbemSY4TLbR1jxoWcS.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 0,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 1,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 2,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 3,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 4,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 5,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215010_jpg.rf.TGeRohPRnkbuIUADfgi5.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 0,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 1,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 2,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 3,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 4,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 5,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215013_jpg.rf.S9raRMtpcqCyl286GM0w.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 0,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 1,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 2,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 3,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 4,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 5,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215016_jpg.rf.bbnzYF0IWmit91To5pqm.jpg",
+    "box": 6,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 5,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215029_jpg.rf.ORAlKqY6SWMMeNacK12R.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 1,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 2,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 3,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 4,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 5,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 6,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215031_jpg.rf.QZ8twQ8Ubshlrtq44qfH.jpg",
+    "box": 7,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215040_jpg.rf.n68rYAFrA8py5v1UHYyz.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215040_jpg.rf.n68rYAFrA8py5v1UHYyz.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215040_jpg.rf.n68rYAFrA8py5v1UHYyz.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215040_jpg.rf.n68rYAFrA8py5v1UHYyz.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215040_jpg.rf.n68rYAFrA8py5v1UHYyz.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215043_jpg.rf.fBVrNHqvTafDNQmpLxdZ.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215043_jpg.rf.fBVrNHqvTafDNQmpLxdZ.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215043_jpg.rf.fBVrNHqvTafDNQmpLxdZ.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215043_jpg.rf.fBVrNHqvTafDNQmpLxdZ.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215043_jpg.rf.fBVrNHqvTafDNQmpLxdZ.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215046_jpg.rf.baWztYsRq3BizIVUmFxu.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215051_jpg.rf.jeHGRt4XMXpvpWzo0xk2.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215059_jpg.rf.3Cm3eSC49SqiHzWWszQH.jpg",
+    "box": 0,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215059_jpg.rf.3Cm3eSC49SqiHzWWszQH.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215059_jpg.rf.3Cm3eSC49SqiHzWWszQH.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215059_jpg.rf.3Cm3eSC49SqiHzWWszQH.jpg",
+    "box": 4,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215059_jpg.rf.3Cm3eSC49SqiHzWWszQH.jpg",
+    "box": 5,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215059_jpg.rf.3Cm3eSC49SqiHzWWszQH.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 5,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215101_jpg.rf.ht6b7TRQtGopkJDjGhex.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215106_jpg.rf.RJtO8mrl4o6VaS6hMmIR.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215108_jpg.rf.nrjaD5RXd9SUPVraDLQB.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215109_jpg.rf.bWq7MCJ3oJFyXgRRVfdr.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215110_jpg.rf.0Ai5pu7iZlrjI6cl4572.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 6,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 7,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_215157_jpg.rf.PehGeuHv78MCSmYYZyp6.jpg",
+    "box": 8,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220418_jpg.rf.x1B06CMLkVOP2wKdb4nS.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 1,
+    "class": "3_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 2,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 6,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220419_jpg.rf.wgVK7lC4C7bfzPqFp9eV.jpg",
+    "box": 7,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 3,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 4,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220530_jpg.rf.P32lILCZ341PxUuPSaQi.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 0,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 1,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 2,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 3,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 4,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 5,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 6,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 7,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220531_jpg.rf.WXA7I4irddWmxIlg6L2i.jpg",
+    "box": 8,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 1,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 2,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 3,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 4,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 5,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 6,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 7,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 8,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220537_jpg.rf.YsAFhxJ3Q2pypAOjUXsI.jpg",
+    "box": 9,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 1,
+    "class": "door_open",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 2,
+    "class": "door_close",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 3,
+    "class": "1_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 4,
+    "class": "G_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 5,
+    "class": "B_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 6,
+    "class": "2_floor",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 7,
+    "class": "3_floor",
+    "true_state": "pressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 8,
+    "class": "telephone_unpressed",
+    "true_state": "unpressed"
+  },
+  {
+    "image": "20260720_220540_jpg.rf.xPGoFUfx9hwWafLltI8M.jpg",
+    "box": 9,
+    "class": "bell_unpressed",
+    "true_state": "unpressed"
+  }
+]
